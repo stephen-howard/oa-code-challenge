@@ -1,0 +1,82 @@
+﻿@using PagedList.Mvc;
+@using CustomerMVCApp.CustomerServiceClient;
+
+@model PagedList.StaticPagedList<Customer>
+<link href="~/Content/PagedList.css" rel="stylesheet" type="text/css" />
+<script src="@Url.Content("~/Scripts/jquery-1.10.2.min.js")" type="text/javascript"></script>
+@{
+    ViewBag.Title = "Index";
+}
+<h3>Customers</h3>
+
+@using (Html.BeginForm("Index", "Customer", FormMethod.Get))
+{
+    <script type="text/javascript">
+        $(function () {
+            $('#pagesizelist').change(function () {
+                this.form.submit();
+            });
+        });
+    </script>
+    
+    <div>
+        Page Size   @Html.DropDownList("PageSize", new SelectList(new Dictionary<string, int> {
+       { "2", 2 }, { "5", 5}, { "10", 10 } }, "Key", "Value"),
+       new { @class = "pro_pag_tf1", id = "pagesizelist" })
+        @Html.ActionLink("Create New", "Create")
+    </div>
+    <br />
+}
+
+<div class="table table-responsive" >
+    <table class="table table-striped table-hover table-condensed table-bordered">
+        <tr>
+            <th>
+                Last Name
+            </th>
+            <th>
+                First Name
+            </th>
+            <th>
+                Address
+            </th>
+            <th>
+                PostalCode
+            </th>
+            <th>
+                IDNumber
+            </th>
+        </tr>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.LastName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.FirstName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Address)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PostalCode)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.IDNumber)
+                </td>
+                <td>
+            @Html.ActionLink("Edit", "Edit", new { LastName = item.LastName }) |
+            @Html.ActionLink("Details", "Details", new { LastName = item.LastName }) |
+            @Html.ActionLink("Delete", "Delete", new { LastName = item.LastName })
+                </td>
+            </tr>
+        }
+
+    </table>
+</div>
+Page @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) of @Model.PageCount
+
+@Html.PagedListPager(Model, page => Url.Action("Index",
+    new { page, Model.PageSize, sortOrder = ViewBag.CurrentSort, currentFilter = ViewBag.CurrentFilter }))
+

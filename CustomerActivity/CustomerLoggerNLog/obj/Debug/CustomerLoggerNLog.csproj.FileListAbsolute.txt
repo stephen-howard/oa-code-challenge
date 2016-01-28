@@ -1,0 +1,7 @@
+C:\Users\satya\documents\visual studio 2012\Projects\CustomerActivity\CustomerLoggerNLog\bin\CustomerLoggerNLog.dll
+C:\Users\satya\documents\visual studio 2012\Projects\CustomerActivity\CustomerLoggerNLog\bin\CustomerLoggerNLog.pdb
+C:\Users\satya\documents\visual studio 2012\Projects\CustomerActivity\CustomerLoggerNLog\bin\NLog.dll
+C:\Users\satya\documents\visual studio 2012\Projects\CustomerActivity\CustomerLoggerNLog\bin\NLog.xml
+C:\Users\satya\documents\visual studio 2012\Projects\CustomerActivity\CustomerLoggerNLog\obj\Debug\CustomerLoggerNLog.csprojResolveAssemblyReference.cache
+C:\Users\satya\documents\visual studio 2012\Projects\CustomerActivity\CustomerLoggerNLog\obj\Debug\CustomerLoggerNLog.dll
+C:\Users\satya\documents\visual studio 2012\Projects\CustomerActivity\CustomerLoggerNLog\obj\Debug\CustomerLoggerNLog.pdb

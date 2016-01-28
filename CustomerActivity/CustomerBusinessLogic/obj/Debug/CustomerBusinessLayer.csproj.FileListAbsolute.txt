@@ -1,0 +1,11 @@
+c:\users\satya\documents\visual studio 2012\Projects\CustomerActivity\CustomerBusinessLogic\obj\Debug\CustomerBusinessLayer.csprojResolveAssemblyReference.cache
+c:\users\satya\documents\visual studio 2012\Projects\CustomerActivity\CustomerBusinessLogic\bin\Debug\CustomerBusinessLogic.dll
+c:\users\satya\documents\visual studio 2012\Projects\CustomerActivity\CustomerBusinessLogic\bin\Debug\CustomerBusinessLogic.pdb
+c:\users\satya\documents\visual studio 2012\Projects\CustomerActivity\CustomerBusinessLogic\bin\Debug\CustomerDAL.dll
+c:\users\satya\documents\visual studio 2012\Projects\CustomerActivity\CustomerBusinessLogic\bin\Debug\CustomerDomainModel.dll
+c:\users\satya\documents\visual studio 2012\Projects\CustomerActivity\CustomerBusinessLogic\bin\Debug\EntityFramework.dll
+c:\users\satya\documents\visual studio 2012\Projects\CustomerActivity\CustomerBusinessLogic\bin\Debug\CustomerDAL.pdb
+c:\users\satya\documents\visual studio 2012\Projects\CustomerActivity\CustomerBusinessLogic\bin\Debug\CustomerDomainModel.pdb
+c:\users\satya\documents\visual studio 2012\Projects\CustomerActivity\CustomerBusinessLogic\bin\Debug\EntityFramework.xml
+c:\users\satya\documents\visual studio 2012\Projects\CustomerActivity\CustomerBusinessLogic\obj\Debug\CustomerBusinessLogic.dll
+c:\users\satya\documents\visual studio 2012\Projects\CustomerActivity\CustomerBusinessLogic\obj\Debug\CustomerBusinessLogic.pdb

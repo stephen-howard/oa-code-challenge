@@ -1,0 +1,11 @@
+c:\users\satya\documents\visual studio 2012\Projects\CustomerActivity\CustomerDAL\obj\Debug\CustomerDAL.csprojResolveAssemblyReference.cache
+c:\users\satya\documents\visual studio 2012\Projects\CustomerActivity\CustomerDAL\bin\Debug\CustomerDAL.dll.config
+c:\users\satya\documents\visual studio 2012\Projects\CustomerActivity\CustomerDAL\bin\Debug\CustomerDAL.dll
+c:\users\satya\documents\visual studio 2012\Projects\CustomerActivity\CustomerDAL\bin\Debug\CustomerDAL.pdb
+c:\users\satya\documents\visual studio 2012\Projects\CustomerActivity\CustomerDAL\bin\Debug\EntityFramework.dll
+c:\users\satya\documents\visual studio 2012\Projects\CustomerActivity\CustomerDAL\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\satya\documents\visual studio 2012\Projects\CustomerActivity\CustomerDAL\bin\Debug\CustomerDomainModel.pdb
+c:\users\satya\documents\visual studio 2012\Projects\CustomerActivity\CustomerDAL\bin\Debug\EntityFramework.xml
+c:\users\satya\documents\visual studio 2012\Projects\CustomerActivity\CustomerDAL\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\satya\documents\visual studio 2012\Projects\CustomerActivity\CustomerDAL\obj\Debug\CustomerDAL.dll
+c:\users\satya\documents\visual studio 2012\Projects\CustomerActivity\CustomerDAL\obj\Debug\CustomerDAL.pdb

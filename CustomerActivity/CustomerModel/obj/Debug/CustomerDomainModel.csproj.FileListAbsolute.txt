@@ -1,0 +1,7 @@
+c:\users\satya\documents\visual studio 2012\Projects\CustomerActivity\CustomerModel\bin\Debug\CustomerDomainModel.dll
+c:\users\satya\documents\visual studio 2012\Projects\CustomerActivity\CustomerModel\bin\Debug\CustomerDomainModel.pdb
+c:\users\satya\documents\visual studio 2012\Projects\CustomerActivity\CustomerModel\obj\Debug\CustomerDomainModel.dll
+c:\users\satya\documents\visual studio 2012\Projects\CustomerActivity\CustomerModel\obj\Debug\CustomerDomainModel.pdb
+c:\users\satya\documents\visual studio 2012\Projects\CustomerActivity\CustomerDAL\bin\Debug\CustomerDomainModel.dll
+c:\users\satya\documents\visual studio 2012\Projects\CustomerActivity\CustomerDAL\bin\Debug\CustomerDomainModel.pdb
+c:\Users\satya\Documents\Visual Studio 2012\Projects\CustomerActivity\CustomerModel\obj\Debug\CustomerDomainModel.csprojResolveAssemblyReference.cache

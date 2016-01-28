@@ -1,0 +1,15 @@
+c:\users\satya\documents\visual studio 2012\Projects\CustomerActivity\CustomerServiceLayer\obj\Debug\CustomerServiceLayer.csprojResolveAssemblyReference.cache
+c:\users\satya\documents\visual studio 2012\Projects\CustomerActivity\CustomerServiceLayer\bin\CustomerServiceLayer.dll
+c:\users\satya\documents\visual studio 2012\Projects\CustomerActivity\CustomerServiceLayer\bin\CustomerServiceLayer.pdb
+c:\users\satya\documents\visual studio 2012\Projects\CustomerActivity\CustomerServiceLayer\obj\Debug\CustomerServiceLayer.dll
+c:\users\satya\documents\visual studio 2012\Projects\CustomerActivity\CustomerServiceLayer\obj\Debug\CustomerServiceLayer.pdb
+c:\users\satya\documents\visual studio 2012\Projects\CustomerActivity\CustomerServiceLayer\bin\CustomerBusinessLogic.dll
+c:\users\satya\documents\visual studio 2012\Projects\CustomerActivity\CustomerServiceLayer\bin\CustomerDomainModel.dll
+c:\users\satya\documents\visual studio 2012\Projects\CustomerActivity\CustomerServiceLayer\bin\CustomerDAL.dll
+c:\users\satya\documents\visual studio 2012\Projects\CustomerActivity\CustomerServiceLayer\bin\EntityFramework.dll
+c:\users\satya\documents\visual studio 2012\Projects\CustomerActivity\CustomerServiceLayer\bin\CustomerBusinessLogic.pdb
+c:\users\satya\documents\visual studio 2012\Projects\CustomerActivity\CustomerServiceLayer\bin\CustomerDomainModel.pdb
+c:\users\satya\documents\visual studio 2012\Projects\CustomerActivity\CustomerServiceLayer\bin\CustomerDAL.pdb
+c:\users\satya\documents\visual studio 2012\Projects\CustomerActivity\CustomerServiceLayer\bin\EntityFramework.xml
+c:\users\satya\documents\visual studio 2012\Projects\CustomerActivity\CustomerServiceLayer\bin\EntityFramework.SqlServer.dll
+c:\users\satya\documents\visual studio 2012\Projects\CustomerActivity\CustomerServiceLayer\bin\EntityFramework.SqlServer.xml
